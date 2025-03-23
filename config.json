@@ -1,0 +1,5 @@
+{
+    "driver_path": "C:\\Users\\Administrator\\mychrome\\chromedriver-win32\\chromedriver.exe",
+    "url": "https://www.google.com",
+    "search_query": "Selenium"
+}
